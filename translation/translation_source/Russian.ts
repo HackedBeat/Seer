@@ -193,7 +193,7 @@
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ОК</translation>
     </message>
 </context>
 <context>
@@ -305,35 +305,35 @@
     </message>
     <message>
         <source>Comments</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Комментарии</translation>
     </message>
     <message>
         <source>Internal Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Внутреннее имя</translation>
     </message>
     <message>
         <source>Product Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Название продукта</translation>
     </message>
     <message>
         <source>Company Name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Название компании</translation>
     </message>
     <message>
         <source>Legal Copyright</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Юридические права</translation>
     </message>
     <message>
         <source>Product Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Версия продукта</translation>
     </message>
     <message>
         <source>File Description</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Описание файла</translation>
     </message>
     <message>
         <source>Legal Trademarks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Зарегистрированные товарные знаки</translation>
     </message>
     <message>
         <source>Private Build</source>
@@ -341,11 +341,11 @@
     </message>
     <message>
         <source>File Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Версия файла</translation>
     </message>
     <message>
         <source>Original Filename</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Имя файла</translation>
     </message>
     <message>
         <source>Special Build</source>
@@ -353,7 +353,7 @@
     </message>
     <message>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Детали</translation>
     </message>
     <message>
         <source>Extension</source>
@@ -455,7 +455,7 @@
     </message>
     <message>
         <source>The system default application not found.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Приложение по умолчанию не найдено.</translation>
     </message>
 </context>
 <context>
@@ -575,35 +575,35 @@
     </message>
     <message>
         <source>Camera make</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Производитель камеры</translation>
     </message>
     <message>
         <source>Camera model</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Модель камеры</translation>
     </message>
     <message>
         <source>Software</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Программа</translation>
     </message>
     <message>
         <source>Bits per sample</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Разрядность</translation>
     </message>
     <message>
         <source>Image width</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ширина</translation>
     </message>
     <message>
         <source>Image height</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Высота</translation>
     </message>
     <message>
         <source>Image description</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Описание</translation>
     </message>
     <message>
         <source>Image copyright</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Авторские права</translation>
     </message>
     <message>
         <source>Image datetime</source>
@@ -623,79 +623,79 @@
     </message>
     <message>
         <source>Exposure time</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Выдержка</translation>
     </message>
     <message>
         <source>F-stop</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Диафрагма</translation>
     </message>
     <message>
         <source>ISO speed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Скорость ISO</translation>
     </message>
     <message>
         <source>Subject distance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Расстояние до объекта</translation>
     </message>
     <message>
         <source>Exposure bias</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Экспокоррекция</translation>
     </message>
     <message>
         <source>Flash</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вспышка</translation>
     </message>
     <message>
         <source>Metering mode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Экспозамер</translation>
     </message>
     <message>
         <source>Lens focal length</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Фокусное расстояние</translation>
     </message>
     <message>
         <source>35mm focal length</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Фокусное расстояние 35 мм</translation>
     </message>
     <message>
         <source>GPS Latitude</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Широта GPS</translation>
     </message>
     <message>
         <source>GPS Longitude</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Долгота GPS</translation>
     </message>
     <message>
         <source>GPS Altitude</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Высота GPS</translation>
     </message>
     <message>
         <source>GPS Precision (DOP)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Точность GPS</translation>
     </message>
     <message>
         <source>Lens min focal length</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Минимальное фокусное расстояние</translation>
     </message>
     <message>
         <source>Lens max focal length</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Максимальное фокусное расстояние</translation>
     </message>
     <message>
         <source>Lens f-stop min</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Минимальная диафрагма объектива</translation>
     </message>
     <message>
         <source>Lens f-stop max</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Максимальная диафрагма объектива</translation>
     </message>
     <message>
         <source>Lens make</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Изготовитель объектива</translation>
     </message>
     <message>
         <source>Lens model</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Модель объектива</translation>
     </message>
     <message>
         <source>Focal plane XRes</source>
@@ -710,7 +710,7 @@
     <name>CSettingsDlg</name>
     <message>
         <source>Type</source>
-        <translation>Тип файлов</translation>
+        <translation>Типы файлов</translation>
     </message>
     <message>
         <source>Controls</source>
@@ -781,7 +781,7 @@
     </message>
     <message>
         <source>Select executable file path</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Выберите путь к исполняемому файлу</translation>
     </message>
 </context>
 <context>
@@ -796,7 +796,7 @@
     </message>
     <message>
         <source>Browse for dopusrt.exe</source>
-        <translation>Обзор dopusrt.exe</translation>
+        <translation>Путь к dopusrt.exe</translation>
     </message>
     <message>
         <source>Temp Folder</source>
@@ -827,7 +827,7 @@
     </message>
     <message>
         <source>Media</source>
-        <translation>Медиа</translation>
+        <translation>Медиафайлы</translation>
     </message>
     <message>
         <source>Other</source>
@@ -843,11 +843,11 @@
     </message>
     <message>
         <source>Picture</source>
-        <translation>Изображение</translation>
+        <translation>Изображения</translation>
     </message>
     <message>
         <source>Compressed</source>
-        <translation>Сжатый</translation>
+        <translation>Архивы</translation>
     </message>
     <message>
         <source>Select your Text format file</source>
@@ -871,11 +871,11 @@
     </message>
     <message>
         <source>Line Number</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Нумерация строк</translation>
     </message>
     <message>
         <source>Mute</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Без звука</translation>
     </message>
     <message>
         <source>Show time indication</source>
@@ -883,7 +883,7 @@
     </message>
     <message>
         <source>Search extension, e.g.: psd</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Поиск расширения, например: psd</translation>
     </message>
 </context>
 <context>
@@ -934,7 +934,7 @@
     </message>
     <message>
         <source>Automatically check for updates</source>
-        <translation>Авто проверка наличия обновлений</translation>
+        <translation>Автоматически проверять наличие обновлений</translation>
     </message>
     <message>
         <source>Display control bar</source>
@@ -950,11 +950,11 @@
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Язык</translation>
     </message>
     <message>
         <source>Application behavior</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Поведение приложений</translation>
     </message>
 </context>
 <context>
@@ -969,11 +969,11 @@
     </message>
     <message>
         <source>Image</source>
-        <translation>Изображение</translation>
+        <translation>Изображения</translation>
     </message>
     <message>
         <source>Loop:</source>
-        <translation>Цикл:</translation>
+        <translation>Повтор:</translation>
     </message>
     <message>
         <source>Media</source>
@@ -1013,7 +1013,7 @@
     </message>
     <message>
         <source>Folder</source>
-        <translation>Папка</translation>
+        <translation>Папки</translation>
     </message>
     <message>
         <source>Column View:</source>
@@ -1065,7 +1065,7 @@
     </message>
     <message>
         <source>Control</source>
-        <translation>Control</translation>
+        <translation>Ctrl</translation>
     </message>
     <message>
         <source>Can not have &apos;Space&apos; key.</source>
@@ -1089,7 +1089,7 @@
     </message>
     <message>
         <source>Open Selected Item With Seer:</source>
-        <translation>Открыть выбранный элемент с Seer：</translation>
+        <translation>Открыть выбранный элемент с Seer:</translation>
     </message>
     <message>
         <source>Reveal Selected Item:</source>
@@ -1120,7 +1120,7 @@
     </message>
     <message>
         <source>Local</source>
-        <translation>Локальный</translation>
+        <translation>Импортировать</translation>
     </message>
     <message>
         <source>Choose Seer plugin</source>
@@ -1128,7 +1128,7 @@
     </message>
     <message>
         <source>Available</source>
-        <translation>Доступно</translation>
+        <translation>Загрузить</translation>
     </message>
     <message>
         <source>Command</source>
